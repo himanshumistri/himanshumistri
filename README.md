@@ -1,7 +1,7 @@
 # 👋 Hi there, my name is Himanshu Mistri
 ### I am member technical staff engineer loves to work on #android with #kotlin, #compose and much more
 
-![[https://github.com/himanshumistri]]
+Here is my github profile https://github.com/himanshumistri
 
 I help tech company to provide solution for the mobile apps .
 

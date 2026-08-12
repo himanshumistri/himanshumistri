@@ -1,5 +1,5 @@
 # 👋 Hi there, my name is Himanshu Mistri
-### I am member technical staff engineer loves to work on #android with #kotlin, #compose and  #KMP (Kotlin Multiplatform) , #KMM (Kotlin Multiplatform Mobile)
+### I am member technical staff engineer loves to work on #android with #kotlin, #compose and  #KMP (Kotlin Multiplatform) , #KMM (Kotlin Multiplatform Mobile) & Agenting AI
 
 Here is my github profile https://github.com/himanshumistri
 
